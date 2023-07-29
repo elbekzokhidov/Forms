@@ -1,0 +1,10 @@
+label {
+  display: block;
+}
+.form-control {
+  margin-bottom: 10px;
+}
+legend {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+}
